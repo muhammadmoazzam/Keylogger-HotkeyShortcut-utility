@@ -1,0 +1,16 @@
+D:\My Programs\SteelSeries Keyboard\Keylogger\bin\Debug\Keyboard Shortcut Utility Tool.exe.config
+D:\My Programs\SteelSeries Keyboard\Keylogger\bin\Debug\Keyboard Shortcut Utility Tool.exe
+D:\My Programs\SteelSeries Keyboard\Keylogger\bin\Debug\Keyboard Shortcut Utility Tool.pdb
+D:\My Programs\SteelSeries Keyboard\Keylogger\bin\Debug\Keyboard Shortcut Utility Tool.xml
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Keyboard Shortcut Utility Tool.vbproj.ResolveComReference.cache
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\KeyboardTool.Form1.resources
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\KeyboardTool.help.resources
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\KeyboardTool.Resources.resources
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\KeyboardTool.splash.resources
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\KeyboardTool.Update.resources
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Keyboard Shortcut Utility Tool.vbproj.GenerateResource.cache
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Keyboard Shortcut Utility Tool.vbproj.CoreCompileInputs.cache
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Keyboard Shortcut Utility Tool.exe
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Keyboard Shortcut Utility Tool.xml
+D:\My Programs\SteelSeries Keyboard\Keylogger\obj\Debug\Keyboard Shortcut Utility Tool.pdb
